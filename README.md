@@ -7,8 +7,3 @@
 - 2025년 상반기 회고 1탄 : https://hj-devlog.vercel.app/blog/2025%20%EC%83%81%EB%B0%98%EA%B8%B0%20%ED%9A%8C%EA%B3%A0-1%ED%83%84
 - 2025년 상반기 회고 2탄 : https://khj0426.notion.site/2299021512de805eb695e3e7655161f0
 - 2025년 : https://beaded-menu-418.notion.site/2025-2d5c0ea540f780d6bcbdecada7be9dbf
-
-- 2026년 
-    - 3월 : https://github.com/gimhyojung/reflection/blob/main/2026/03.md
-    - 4월 : https://github.com/gimhyojung/reflection/blob/main/2026/04.md
-    - 5월 : https://github.com/gimhyojung/reflection/blob/main/2026/05.md
